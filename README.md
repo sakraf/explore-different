@@ -39,3 +39,6 @@ The products (bicycles) info from the Shop page are stored in ProductTBL from My
 ![Cart2](https://i.ibb.co/2kCphqs/Cart-Items.png)
 
 ## Database structure
+To be uploaded soon.
+## TODOs
+To follow up on this.
