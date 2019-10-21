@@ -1,5 +1,5 @@
 # explore-different
-Explore-Different is a simple Java Web Application (e-commerce) made using Servlets, JSP and JDBC.
+Explore-Different is a simple Java Web Application (e-commerce) developed using Servlets, JSP and JDBC.
 
 # Technology used
 * Java 7
