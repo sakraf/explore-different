@@ -2,6 +2,7 @@
 Explore-Different is a simple Java Web Application (e-commerce) developed using Servlets, JSP and JDBC.
 
 # Technology used
+* IntelliJ IDEA Community Edition
 * Java 7
 * JDBC
 * JavaScript
