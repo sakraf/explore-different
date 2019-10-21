@@ -1,0 +1,15 @@
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/bean/Cart.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/bean/Bike.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/controller/LoginFilter.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/servlet/ShopServlet.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/controller/DBContext.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/database/RegisterDao.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/servlet/ShoppingCartServlet.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/servlet/RegisterServlet.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/servlet/ProductServlet.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/bean/Login.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/database/LoginDao.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/servlet/UserServlet.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/controller/SQLControl.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/servlet/LoginServlet.java
+/Users/vladfarkas/IdeaProjects/webapplication/src/main/java/skf/bean/Customer.java
